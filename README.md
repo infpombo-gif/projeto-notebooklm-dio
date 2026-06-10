@@ -1,158 +1,203 @@
-# Projeto: Caderno Temático com NotebookLM
+Inteligência Artificial Generativa e Engenharia de Prompts
 
-## 📖 Contexto e Objetivos
+# 📚 Caderno Temático com NotebookLM
+
+## 🎯 Contexto e Objetivos
+
+Este projeto foi desenvolvido como parte do desafio da DIO utilizando o NotebookLM como ferramenta de apoio aos estudos.
 
 ### Tema Escolhido
 
-Inteligência Artificial Aplicada à Produtividade e Aprendizagem.
+**Inteligência Artificial Generativa e Engenharia de Prompts**
 
 ### Objetivos de Estudo
 
-* Compreender os conceitos fundamentais de IA Generativa.
-* Identificar aplicações práticas da IA em ambientes profissionais.
-* Aprender a utilizar o NotebookLM como ferramenta de estudo e pesquisa.
-* Desenvolver habilidades de curadoria de conteúdo e engenharia de prompts.
-* Criar um material de consulta rápida para futuras revisões.
+* Compreender os fundamentos da Inteligência Artificial Generativa.
+* Entender como funcionam os Grandes Modelos de Linguagem (LLMs).
+* Aprender técnicas de Engenharia de Prompts.
+* Desenvolver habilidades para criar prompts mais eficientes.
+* Utilizar IA como ferramenta de aprendizagem ativa.
 
 ---
 
-## 📚 Curadoria de Fontes
+# 📖 Curadoria de Fontes
 
-As seguintes fontes foram utilizadas e carregadas no NotebookLM:
+As seguintes fontes foram utilizadas como base para estudo e upload no NotebookLM:
 
-1. Documentação oficial do NotebookLM.
-2. Artigos sobre Inteligência Artificial Generativa.
-3. Guias de Engenharia de Prompts.
-4. Materiais da DIO relacionados à IA.
-5. Relatórios públicos sobre tendências em Inteligência Artificial.
+## Fonte 1
 
-### Links das Fontes
+Google AI - Introduction to Generative AI
 
-* Fonte 1: https://notebooklm.google
-* Fonte 2: https://ai.google
-* Fonte 3: https://www.ibm.com/topics/artificial-intelligence
-* Fonte 4: https://www.dio.me
-* Fonte 5: https://www.microsoft.com/ai
+https://www.cloudskillsboost.google/course_templates/536
 
----
+## Fonte 2
 
-## 🧠 Engenharia de Prompts
+Prompt Engineering Guide
 
-### Prompt 1
+https://www.promptingguide.ai
 
-"Explique os principais conceitos de IA Generativa para um iniciante."
+## Fonte 3
 
-#### Resultado
+OpenAI - Prompt Engineering Best Practices
 
-Foi gerado um resumo introdutório com conceitos básicos sobre modelos generativos, treinamento e aplicações.
+https://platform.openai.com/docs/guides/prompt-engineering
 
-#### Aprendizado
+## Fonte 4
 
-A resposta foi clara, porém muito genérica.
+Google NotebookLM
 
----
+https://notebooklm.google
 
-### Prompt 2
+## Fonte 5
 
-"Quais são os benefícios e limitações da IA Generativa no ambiente corporativo?"
+IBM - What is Generative AI?
 
-#### Resultado
-
-Foram identificados pontos positivos como automação e produtividade, além de desafios relacionados à privacidade e confiabilidade.
-
-#### Aprendizado
-
-As respostas apresentaram melhor profundidade quando o contexto foi especificado.
+https://www.ibm.com/topics/generative-ai
 
 ---
 
-### Prompt 3
+# 🧠 Engenharia de Prompts
 
-"Crie um plano de estudos de 30 dias para aprender IA Generativa."
+## Prompt 1
 
-#### Resultado
+"Explique o que é Inteligência Artificial Generativa para alguém iniciante."
 
-O NotebookLM organizou um cronograma progressivo de aprendizagem.
+### Resultado
 
-#### Aprendizado
+Foi gerada uma explicação simples sobre IA Generativa, seus conceitos fundamentais e aplicações.
 
-Prompts estruturados produzem respostas mais completas e organizadas.
+### Aprendizado
+
+Prompts direcionados para iniciantes geram respostas mais didáticas.
 
 ---
 
-## ⚠️ Dificuldades Encontradas
+## Prompt 2
 
-* Respostas muito amplas quando os prompts eram genéricos.
-* Necessidade de especificar contexto, público-alvo e objetivo.
-* Algumas respostas exigiram validação nas fontes originais.
+"Quais são as diferenças entre IA tradicional e IA Generativa?"
+
+### Resultado
+
+A IA apresentou comparações práticas entre os dois conceitos.
+
+### Aprendizado
+
+Prompts comparativos ajudam a entender conceitos semelhantes.
+
+---
+
+## Prompt 3
+
+"Crie um resumo dos principais conceitos de Engenharia de Prompts."
+
+### Resultado
+
+Foram identificadas técnicas como:
+
+* Role Prompting
+* Few-Shot Prompting
+* Chain of Thought
+* Prompt Chaining
+
+### Aprendizado
+
+Quanto mais contexto é fornecido, mais detalhada fica a resposta.
+
+---
+
+# ⚠️ Dificuldades Encontradas (Cicatrizes)
+
+Durante os testes foram observados alguns desafios:
+
+* Prompts muito genéricos geravam respostas superficiais.
+* Falta de contexto reduzia a qualidade das respostas.
+* Perguntas amplas produziam resultados pouco objetivos.
 
 ### Soluções Aplicadas
 
-* Uso de prompts mais específicos.
-* Solicitação de exemplos práticos.
-* Comparação das respostas com as fontes carregadas.
+* Adicionar contexto.
+* Definir público-alvo.
+* Informar objetivo da resposta.
+* Solicitar formato específico de saída.
 
 ---
 
-# 📑 Miniguia de Estudo
+# 📘 Miniguia de Estudo
 
 ## Resumo Estruturado
 
 ### O que é IA Generativa?
 
-É uma área da Inteligência Artificial capaz de criar conteúdos como textos, imagens, códigos e áudios a partir de padrões aprendidos durante o treinamento.
+É um tipo de Inteligência Artificial capaz de criar conteúdos novos, como textos, imagens, músicas e códigos, com base em padrões aprendidos durante o treinamento.
 
-### Principais Aplicações
+### O que são LLMs?
 
-* Assistentes virtuais.
-* Criação de conteúdo.
-* Automação de tarefas.
-* Desenvolvimento de software.
-* Suporte ao aprendizado.
+LLMs (Large Language Models) são modelos treinados com grandes volumes de texto para compreender e gerar linguagem natural.
 
-### Benefícios
+### O que é Engenharia de Prompts?
 
-* Aumento da produtividade.
-* Economia de tempo.
-* Apoio à tomada de decisão.
-* Escalabilidade de processos.
-
-### Limitações
-
-* Possibilidade de informações incorretas.
-* Dependência da qualidade dos dados.
-* Questões éticas e de privacidade.
+É a prática de criar instruções claras e estruturadas para obter melhores resultados de sistemas de IA.
 
 ---
 
-## 📘 Glossário
+# 📚 Glossário
 
-**IA Generativa:** Tecnologia capaz de criar novos conteúdos.
+## IA Generativa
 
-**Prompt:** Instrução fornecida para a IA.
+Tecnologia capaz de criar conteúdo novo a partir de dados aprendidos.
 
-**LLM (Large Language Model):** Modelo de linguagem treinado com grandes volumes de dados.
+## LLM
 
-**Alucinação:** Resposta incorreta apresentada pela IA como verdadeira.
+Large Language Model (Grande Modelo de Linguagem).
 
-**Engenharia de Prompt:** Técnica de elaboração de instruções para obter melhores respostas.
+## Prompt
+
+Instrução fornecida para uma IA.
+
+## Prompt Engineering
+
+Técnica de criação e otimização de prompts.
+
+## Context Window
+
+Quantidade de informação que o modelo consegue considerar simultaneamente.
+
+## Few-Shot Prompting
+
+Técnica que utiliza exemplos para orientar respostas.
+
+## Chain of Thought
+
+Método que incentiva a IA a explicar o raciocínio passo a passo.
 
 ---
 
-## 🚀 Prompts Reutilizáveis
+# 🚀 Prompts Reutilizáveis
 
-1. "Explique este tema para um iniciante usando exemplos práticos."
+## Resumo
 
-2. "Resuma os principais conceitos em tópicos."
+"Resuma este conteúdo em tópicos para revisão rápida."
 
-3. "Crie perguntas e respostas para revisão."
+## Explicação Simples
 
-4. "Compare vantagens e desvantagens deste assunto."
+"Explique este conceito como se estivesse ensinando para um iniciante."
 
-5. "Monte um plano de estudos baseado neste material."
+## Comparação
+
+"Compare os conceitos A e B destacando diferenças, vantagens e limitações."
+
+## Quiz
+
+"Crie 10 perguntas de múltipla escolha sobre este conteúdo."
+
+## Revisão
+
+"Monte um guia de revisão de 5 minutos com os pontos mais importantes."
 
 ---
 
-## 🎯 Conclusão
+# ✅ Conclusão
 
-Este projeto demonstrou como o NotebookLM pode ser utilizado como ferramenta de aprendizagem ativa, permitindo organizar conteúdos, sintetizar informações e construir materiais de estudo personalizados com apoio da Inteligência Artificial.
+O NotebookLM demonstrou ser uma ferramenta eficiente para organizar conhecimento, gerar resumos, criar materiais de revisão e apoiar o aprendizado ativo.
+
+A combinação entre curadoria de fontes, engenharia de prompts e análise crítica permite acelerar significativamente o processo de estudo e retenção de conhecimento.
